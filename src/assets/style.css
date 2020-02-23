@@ -1,0 +1,10 @@
+.bordlength {
+    border: 30px;
+};
+
+.picz{
+    display: none;
+    float:left;
+    text-align: center;
+    justify-content: space-between;
+}
