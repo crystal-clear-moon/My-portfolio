@@ -20,6 +20,6 @@ function Nav() {
       <br />
     </div>
   );
-}
+  }
 
 export default Nav;
