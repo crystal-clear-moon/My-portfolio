@@ -1,5 +1,6 @@
 import React from "react";
 import me from "../assets/me.jpg";
+import resume from "../assets/Resume2019.pdf"
 
 function Home() {
   return (
@@ -32,7 +33,7 @@ function Home() {
         </a>
         <br />
         <a
-          href="https://docs.google.com/document/d/1REyvwUYHOvVS-X-QyyuYz1fH3P4GNd2Qh81Mvo2SBPk/edit?usp=sharing"
+          href={resume}
           target="blank"
         >
           Resume
