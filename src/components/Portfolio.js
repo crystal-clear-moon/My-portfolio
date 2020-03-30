@@ -13,7 +13,7 @@ function Portfolio() {
       {/* tripbuddy */}
       <div className="column">
         <a 
-          href="https://mysterious-eyrie-04638.herokuapp.com/dashboard"
+          href="https://trip-buddy-2020.herokuapp.com/"
           target="blank"
         >
           <img src={tripbuddy} alt="TripBuddy"></img>
