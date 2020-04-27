@@ -1,6 +1,6 @@
 import React from "react";
 import me from "../assets/me.jpg";
-import resume from "../assets/Resume2019.pdf";
+import resume from "../assets/Resume2020.pdf";
 
 function Home() {
   return (
