@@ -1,6 +1,4 @@
 import React from "react";
-import me from "../assets/me.jpg";
-import resume from "../assets/Resume2019.pdf";
 
 function Home() {
   return (
@@ -29,22 +27,7 @@ function Home() {
       </div>
 
       <div className="column is-full has-text-centered">
-        <img src={me} alt="Dwayne"></img>
-        <br></br>
-        <a href="https://github.com/DwayneLaughlin" target="blank">
-          Github
-        </a>
-        <br />
-        <a href={resume} target="blank">
-          Resume
-        </a>
-        <br />
-        <a
-          href="https://www.linkedin.com/in/dwayne-laughlin-74982118b/"
-          target="blank"
-        >
-          LinkedIn
-        </a>
+
       </div>
     </div>
   );
